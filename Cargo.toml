@@ -1,0 +1,8 @@
+[package]
+name = "decaysim"
+version = "0.2.0"
+authors = ["William Eustace <weustace@eustacesheen.me.uk>"]
+
+[dependencies]
+ansi_term="0.7"
+rand="0.3.0"
